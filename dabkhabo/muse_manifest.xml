@@ -1,0 +1,32 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="dabk.com" resolutions="1x" timestamp="1518367460525">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="258568547" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u253.php" crc="3965180549" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="hmm.png" crc="523619473" seo="true" ref="index"/>
+    <file name="opps.jpg" crc="191925936" ref="index"/>
+    <file name="newlogobla.png" crc="3969211475" seo="true" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index"/>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index"/>
+  </folder>
+  <file name="index.html" crc="65302455" seo="true" mt="1518367369072" redirect="true"/>
+</manifest>
